@@ -19,6 +19,51 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
+<table class="news-table">
+    <tr>
+      <td class="news-date">09/2025</td>
+      <td class="news-content">
+      One paper is accepted at MobiCom '25.
+      </td>
+    </tr> 
+    <tr>
+      <td class="news-date">09/2025</td>
+      <td class="news-content">
+      I am starting a new chapter in my career as a Research Assistant Professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html).
+      </td>
+    </tr>  
+    <tr>
+      <td class="news-date">08/2025</td>
+      <td class="news-content">
+      Invited to serve on the Technical Program Committee for TrustCom '25.
+      </td>
+    </tr>
+    <tr>
+      <td class="news-date">08/2025</td>
+      <td class="news-content">
+      Invited to serve as a reviewer for IoT '25.
+      </td>
+    </tr> 
+    <tr>
+      <td class="news-date">07/2025</td>
+      <td class="news-content">
+      Excited to co-chair the “RF Computing and AIoT Application” track at [ICPADS 2025](http://ieee-icpads.org.cn).
+      </td>
+    </tr> 
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">
+      Invited to serve as a reviewer for IMWUT '25.
+      </td>
+    </tr> 
+    <tr>
+      <td class="news-date">05/2025</td>
+      <td class="news-content">
+      One paper is accepted at MobiCom '25.
+      </td>
+    </tr> 
+  </table>
+        
 
 Getting started
 ======
