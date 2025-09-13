@@ -75,5 +75,49 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
   </tr> 
 </table>
         
+<span style="color:Selected Publications">News</span>
+======
+<hr style="border: none; height: 2px; background-color: Navy;">
 
-
+<table>
+    <tr>
+                                <td>
+                                    <span class="publications-label">
+                                        IMWUT/
+                                        <br/>
+                                        UbiComp
+                                    </span>
+                                </td>
+                                <td >
+                                    <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b>
+                                    <br/>
+                                     Kuang Yuan, 
+                                    <u>Dong Li</u>
+                                    , Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong 
+                                    <br/>
+                                    <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i>
+                                    <br/>
+                                    <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a>
+                                    <!--<p style="color: grey;">Coming Soon!</p>-->
+                                </td>
+                            </tr>
+                            <tr class="publications-item">
+                                <td class="publications-date">
+                                    <span class="publications-label">S&amp;P Workshop</span>
+                                </td>
+                                <td class="publications-content">
+                                    <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b>
+                                    <br/>
+                                     Hanqing Guo, 
+                                    <u>Dong Li</u>
+                                    , Ruofeng Liu, Yao Zheng 
+                                    <br/>
+                                    <i>IEEE Symposium on Security and Privacy, SAN FRANCISCO, USA, May 2025</i>
+                                    <br/>
+                                    <a href="files/SP25_SecureTrans_Demo.pdf" class="button-link">PDF</a>
+                                </td>
+                            </tr>
+             </table>
+              <div style="text-align: center; margin-top: 20px;">
+                  <a href="/publications/" class="all-publications">All Publications</a>
+              </div>
