@@ -19,7 +19,7 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
-<table border: 1px solid white>
+<table>
     <tr>
       <td class="news-date"><b>09/2025</b></td>
       <td class="news-content">
