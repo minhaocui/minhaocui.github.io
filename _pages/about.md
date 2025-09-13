@@ -97,19 +97,6 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
 </style>
 
 <table>
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label">MobiCom</span>
-    </td>
-    <td class="publications-content">
-      <b>Making LoRa Sensing Coexist with Communication</b>
-      <br/>
-      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
-      <br/>
-      <i>ACM Conference on Mobile Computing and Networking, 2025</i>
-      <br/>
-    </td>
-  </tr>
 
   <tr class="publications-item">
     <td class="publications-date">
@@ -139,37 +126,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
     </td>
   </tr>
 
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label"> IMWUT/
-                                        <br/>
-                                        UbiComp</span>
-    </td>
-    <td class="publications-content">
-      <b>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</b>
-      <br/>
-      Lupeng Zhang, Pingchuan Wang, <u>Minhao Cui</u>, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang
-      <br/>
-      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2024</i>
-      <br/>
-    </td>
-  </tr>
 
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label"> IMWUT/
-                                        <br/>
-                                        UbiComp</span>
-    </td>
-    <td class="publications-content">
-      <b>Wall Matters: Rethinking the Effect of Wall for Wireless Sensing</b>
-      <br/>
-      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
-      <br/>
-      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2024</i>
-      <br/>
-    </td>
-  </tr>
 
   <tr class="publications-item">
     <td class="publications-date">
@@ -185,33 +142,6 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
     </td>
   </tr>
 
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label">MobiHoc</span>
-    </td>
-    <td class="publications-content">
-      <b>LeakageScatter: Backscattering LiFi-leaked RF Signals</b>
-      <br/>
-      Muhammad Sarmad Mir*, <u>Minhao Cui</u>*, Borja Genoves Guzman, Qing Wang, Jie Xiong, Domenico Giustiniano (*Equal contribution)
-      <br/>
-      <i>ACM International Symposium on Mobile Ad Hoc Networking and Computing, 2023</i>
-      <br/>
-    </td>
-  </tr>
-
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label">MobiSys</span>
-    </td>
-    <td class="publications-content">
-      <b>Boosting the Long Range Sensing Potential of LoRa</b>
-      <br/>
-      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Xiangru Chen, Jie Xiong
-      <br/>
-      <i>ACM International Conference on Mobile Systems, Applications, and Services, 2023</i>
-      <br/>
-    </td>
-  </tr>
 
   <tr class="publications-item">
     <td class="publications-date">
