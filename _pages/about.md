@@ -6,10 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
+======
+I am a reserach assistant professor at Department of Computer Science and Engineering, Seoul National University. I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of Prof. Jie Xiong. My research vision is to explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers. My research interests lie in mobile computing, wireless sensing, wireless communication, cyber-physical systems, and HCI.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
