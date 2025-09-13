@@ -12,7 +12,7 @@ I am a reserach assistant professor at [Department of Computer Science and Engin
 
 My research vision is to **explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers**. 
 
-Research interests: **mobile computing**, **wireless sensing**, **wireless communication**, **cyber-physical systems**, and **HCI**.
+Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Communication**, **Cyber-Physical Systems**, and **HCI**.
 
 
 <span style="color:Navy">News</span>
