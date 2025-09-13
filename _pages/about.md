@@ -24,6 +24,7 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
   table {
     border-collapse: collapse;
     border: none;
+    font-size: 16px;
   }
   table td, table tr {
     border: none;
@@ -36,7 +37,7 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
   <tr>
     <td><b>09/2025</b></td>
     <td>
-      One paper is accepted at MobiCom '25dd.
+      One paper is accepted at MobiCom '25.
     </td>
   </tr> 
   <tr>
