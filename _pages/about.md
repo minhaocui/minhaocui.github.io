@@ -24,7 +24,7 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
   table {
     border-collapse: collapse;
     border: none;
-    font-size: 16px;
+    font-size: 18px;
   }
   table td, table tr {
     border: none;
