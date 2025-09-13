@@ -79,6 +79,23 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
+<style>
+  .publications-label {
+    background-color: #e0e0e0; /* light gray background */
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: inline-block;
+    font-weight: bold;
+  }
+  .publications-item td {
+    vertical-align: top;
+    padding: 6px 12px;
+  }
+  .publications-content b {
+    font-size: 1.05em;
+  }
+</style>
+
 <table>
   <tr class="publications-item">
     <td class="publications-date">
@@ -89,7 +106,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2025.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2025</i>
       <br/>
     </td>
   </tr>
@@ -103,7 +120,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Huixin Dong$^\star$, <u>Minhao Cui</u>$^\star$, Ning Wang, Lili Qiu, Jie Xiong, Wei Wang (*Equal contribution)
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2024.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2024</i>
       <br/>
     </td>
   </tr>
@@ -117,7 +134,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Binbin Xie, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2024.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2024</i>
       <br/>
     </td>
   </tr>
@@ -131,7 +148,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Lupeng Zhang, Pingchuan Wang, <u>Minhao Cui</u>, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang
       <br/>
-      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>IMWUT/UbiComp</b>), 2024.</i>
+      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2024</i>
       <br/>
     </td>
   </tr>
@@ -145,7 +162,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
       <br/>
-      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>IMWUT/UbiComp</b>), 2024.</i>
+      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2024</i>
       <br/>
     </td>
   </tr>
@@ -159,7 +176,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Binbin Xie, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2023.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2023</i>
       <br/>
     </td>
   </tr>
@@ -173,7 +190,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Muhammad Sarmad Mir$^\star$, <u>Minhao Cui</u>$^\star$, Borja Genoves Guzman, Qing Wang, Jie Xiong, Domenico Giustiniano (*Equal contribution)
       <br/>
-      <i>ACM International Symposium on Mobile Ad Hoc Networking and Computing (<b>MobiHoc</b>), 2023.</i>
+      <i>ACM International Symposium on Mobile Ad Hoc Networking and Computing, 2023</i>
       <br/>
     </td>
   </tr>
@@ -187,7 +204,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Xiangru Chen, Jie Xiong
       <br/>
-      <i>ACM International Conference on Mobile Systems, Applications, and Services (<b>MobiSys</b>), 2023.</i>
+      <i>ACM International Conference on Mobile Systems, Applications, and Services, 2023</i>
       <br/>
     </td>
   </tr>
@@ -201,7 +218,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2022.</i>
+      <i>ACM Conference on Embedded Networked Sensor Systems, 2022</i>
       <br/>
       <span style="color:red;"><b>Best Paper Award (1/208)</b></span>
       <br/>
@@ -217,7 +234,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2021.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2021</i>
       <br/>
     </td>
   </tr>
@@ -231,7 +248,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2020.</i>
+      <i>ACM Conference on Embedded Networked Sensor Systems, 2020</i>
       <br/>
     </td>
   </tr>
@@ -245,13 +262,15 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <br/>
       <u>Minhao Cui</u>, Yuda Feng, Qing Wang, Jie Xiong
       <br/>
-      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2020.</i>
+      <i>ACM Conference on Mobile Computing and Networking, 2020</i>
       <br/>
       <span style="color:red;"><b>Best Paper Honorable Mention Award (3/384)</b></span>
       <br/>
     </td>
   </tr>
 </table>
+
+
 
 
           
