@@ -164,34 +164,6 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
       <span class="publications-label">MobiCom</span>
     </td>
     <td class="publications-content">
-      <b>RadioInLight: Doubling the Data Rate of VLC Systems</b>
-      <br/>
-      <u>Minhao Cui</u>, Qing Wang, Jie Xiong
-      <br/>
-      <i>ACM Conference on Mobile Computing and Networking, 2021</i>
-      <br/>
-    </td>
-  </tr>
-
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label">SenSys</span>
-    </td>
-    <td class="publications-content">
-      <b>Breaking the Limitations of Visible Light Communication Through Its Side Channel</b>
-      <br/>
-      <u>Minhao Cui</u>, Qing Wang, Jie Xiong
-      <br/>
-      <i>ACM Conference on Embedded Networked Sensor Systems, 2020</i>
-      <br/>
-    </td>
-  </tr>
-
-  <tr class="publications-item">
-    <td class="publications-date">
-      <span class="publications-label">MobiCom</span>
-    </td>
-    <td class="publications-content">
       <b>Sniffing Visible Light Communication Through Walls</b>
       <br/>
       <u>Minhao Cui</u>, Yuda Feng, Qing Wang, Jie Xiong
