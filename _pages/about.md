@@ -118,7 +118,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
     <td class="publications-content">
       <b>GPSense: Passive Sensing with Pervasive GPS Signals</b>
       <br/>
-      Huixin Dong$^\star$, <u>Minhao Cui</u>$^\star$, Ning Wang, Lili Qiu, Jie Xiong, Wei Wang (*Equal contribution)
+      Huixin Dong*, <u>Minhao Cui</u>*, Ning Wang, Lili Qiu, Jie Xiong, Wei Wang (*Equal contribution)
       <br/>
       <i>ACM Conference on Mobile Computing and Networking, 2024</i>
       <br/>
@@ -141,7 +141,9 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
 
   <tr class="publications-item">
     <td class="publications-date">
-      <span class="publications-label">IMWUT/UbiComp</span>
+      <span class="publications-label"> IMWUT/
+                                        <br/>
+                                        UbiComp</span>
     </td>
     <td class="publications-content">
       <b>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</b>
@@ -155,7 +157,9 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
 
   <tr class="publications-item">
     <td class="publications-date">
-      <span class="publications-label">IMWUT/UbiComp</span>
+      <span class="publications-label"> IMWUT/
+                                        <br/>
+                                        UbiComp</span>
     </td>
     <td class="publications-content">
       <b>Wall Matters: Rethinking the Effect of Wall for Wireless Sensing</b>
@@ -188,7 +192,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
     <td class="publications-content">
       <b>LeakageScatter: Backscattering LiFi-leaked RF Signals</b>
       <br/>
-      Muhammad Sarmad Mir$^\star$, <u>Minhao Cui</u>$^\star$, Borja Genoves Guzman, Qing Wang, Jie Xiong, Domenico Giustiniano (*Equal contribution)
+      Muhammad Sarmad Mir*, <u>Minhao Cui</u>*, Borja Genoves Guzman, Qing Wang, Jie Xiong, Domenico Giustiniano (*Equal contribution)
       <br/>
       <i>ACM International Symposium on Mobile Ad Hoc Networking and Computing, 2023</i>
       <br/>
