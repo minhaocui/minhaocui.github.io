@@ -75,7 +75,7 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
   </tr> 
 </table>
         
-<span style="color:Selected Publications">News</span>
+<span style="color:Navy">Selected Publications</span>
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
