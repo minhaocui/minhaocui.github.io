@@ -176,7 +176,9 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
   </tr>
 </table>
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/publications/" style="background-color: navy; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; display: inline-block;">
+    All Publications
+  </a>
+</div>
 
-<p align="center" style="margin-top: 20px;">
-  <a href="/publications/" class="all-publications">All Publications</a>
-</p>
