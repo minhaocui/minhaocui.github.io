@@ -80,44 +80,181 @@ Research interests: **mobile computing**, **wireless sensing**, **wireless commu
 <hr style="border: none; height: 2px; background-color: Navy;">
 
 <table>
-    <tr>
-                                <td>
-                                    <span class="publications-label">
-                                        IMWUT/
-                                        <br/>
-                                        UbiComp
-                                    </span>
-                                </td>
-                                <td >
-                                    <b>WindDancer: Understanding Acoustic Sensing under Ambient Airflow</b>
-                                    <br/>
-                                     Kuang Yuan, 
-                                    <u>Dong Li</u>
-                                    , Hao Zhou, Zhehao Li, Lili Qiu, Swarun Kumar, Jie Xiong 
-                                    <br/>
-                                    <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Espoo, Finland, October 2025</i>
-                                    <br/>
-                                    <a href="https://dl.acm.org/doi/pdf/10.1145/3729469" class="button-link">PDF</a>
-                                    <!--<p style="color: grey;">Coming Soon!</p>-->
-                                </td>
-                            </tr>
-                            <tr class="publications-item">
-                                <td class="publications-date">
-                                    <span class="publications-label">S&amp;P Workshop</span>
-                                </td>
-                                <td class="publications-content">
-                                    <b>SecureTrans: Demo: Disrupting In-Car mmWave Sensing Through IRS Manipulation</b>
-                                    <br/>
-                                     Hanqing Guo, 
-                                    <u>Dong Li</u>
-                                    , Ruofeng Liu, Yao Zheng 
-                                    <br/>
-                                    <i>IEEE Symposium on Security and Privacy, SAN FRANCISCO, USA, May 2025</i>
-                                    <br/>
-                                    <a href="files/SP25_SecureTrans_Demo.pdf" class="button-link">PDF</a>
-                                </td>
-                            </tr>
-             </table>
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>Making LoRa Sensing Coexist with Communication</b>
+      <br/>
+      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2025.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>GPSense: Passive Sensing with Pervasive GPS Signals</b>
+      <br/>
+      Huixin Dong$^\star$, <u>Minhao Cui</u>$^\star$, Ning Wang, Lili Qiu, Jie Xiong, Wei Wang (*Equal contribution)
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2024.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>EVLeSen: In-Vehicle Sensing with EV-Leaked Signal</b>
+      <br/>
+      <u>Minhao Cui</u>, Binbin Xie, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2024.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">IMWUT/UbiComp</span>
+    </td>
+    <td class="publications-content">
+      <b>AquaKey: Exploiting the Randomness of the Underwater Visible Light Communication Channel for Key Extraction</b>
+      <br/>
+      Lupeng Zhang, Pingchuan Wang, <u>Minhao Cui</u>, Jingwen Wei, Yu Tian, Jingchi Zhang, Jie Xiong, Lei Wang
+      <br/>
+      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>IMWUT/UbiComp</b>), 2024.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">IMWUT/UbiComp</span>
+    </td>
+    <td class="publications-content">
+      <b>Wall Matters: Rethinking the Effect of Wall for Wireless Sensing</b>
+      <br/>
+      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Jie Xiong
+      <br/>
+      <i>ACM Interactive, Mobile, Wearable and Ubiquitous Technologies / ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b>IMWUT/UbiComp</b>), 2024.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>DancingAnt: Body-empowered Wireless Sensing Utilizing Pervasive Radiations from Powerline</b>
+      <br/>
+      <u>Minhao Cui</u>, Binbin Xie, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2023.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiHoc</span>
+    </td>
+    <td class="publications-content">
+      <b>LeakageScatter: Backscattering LiFi-leaked RF Signals</b>
+      <br/>
+      Muhammad Sarmad Mir$^\star$, <u>Minhao Cui</u>$^\star$, Borja Genoves Guzman, Qing Wang, Jie Xiong, Domenico Giustiniano (*Equal contribution)
+      <br/>
+      <i>ACM International Symposium on Mobile Ad Hoc Networking and Computing (<b>MobiHoc</b>), 2023.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiSys</span>
+    </td>
+    <td class="publications-content">
+      <b>Boosting the Long Range Sensing Potential of LoRa</b>
+      <br/>
+      Binbin Xie, <u>Minhao Cui</u>, Deepak Ganesan, Xiangru Chen, Jie Xiong
+      <br/>
+      <i>ACM International Conference on Mobile Systems, Applications, and Services (<b>MobiSys</b>), 2023.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">SenSys</span>
+    </td>
+    <td class="publications-content">
+      <b>Bracelet+: Harvesting the Leaked RF Energy in VLC with Wearable Bracelet Antenna</b>
+      <br/>
+      <u>Minhao Cui</u>, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2022.</i>
+      <br/>
+      <span style="color:red;"><b>Best Paper Award (1/208)</b></span>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>RadioInLight: Doubling the Data Rate of VLC Systems</b>
+      <br/>
+      <u>Minhao Cui</u>, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2021.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">SenSys</span>
+    </td>
+    <td class="publications-content">
+      <b>Breaking the Limitations of Visible Light Communication Through Its Side Channel</b>
+      <br/>
+      <u>Minhao Cui</u>, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2020.</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
+      <b>Sniffing Visible Light Communication Through Walls</b>
+      <br/>
+      <u>Minhao Cui</u>, Yuda Feng, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking (<b>MobiCom</b>), 2020.</i>
+      <br/>
+      <span style="color:red;"><b>Best Paper Honorable Mention Award (3/384)</b></span>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+
+          
               <div style="text-align: center; margin-top: 20px;">
                   <a href="/publications/" class="all-publications">All Publications</a>
               </div>
