@@ -30,7 +30,7 @@ author:
   location         : "Seoul, Korea"
   employer         : "Seoul National University"
   uri              : # URL
-  email            : firstnamelastname(AT)snu(DOT)ac(DOT)kr 
+  email            : "firstnamelastname(AT)snu(DOT)ac(DOT)kr"
 
   # Academic websites
   academia         : # URL
