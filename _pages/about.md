@@ -19,11 +19,11 @@ My research interests lie in **mobile computing**, **wireless sensing**, **wirel
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
-<table cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none;">
     <tr>
       <td class="news-date"><b>09/2025</b></td>
       <td class="news-content">
-      One paper is accepted at MobiCom '25.
+      One paper is accepted at MobiCom '25ddd.
       </td>
     </tr> 
     <tr>
