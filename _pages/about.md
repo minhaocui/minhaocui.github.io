@@ -252,4 +252,13 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
-I hit the gym regularly and do some casual powerlifting. My PRs: Bench 130 kg, Deadlift 230 kg, Squat 180 kg.
+<ul>
+  <li>I hit the gym regularly and do some casual powerlifting</li>
+  <li>My PRs:
+    <ul>
+      <li><b>Bench Press:</b> 130 kg</li>
+      <li><b>Deadlift:</b> 230 kg</li>
+      <li><b>Squat:</b> 180 kg</li>
+    </ul>
+  </li>
+</ul>
