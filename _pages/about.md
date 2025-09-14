@@ -248,3 +248,8 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
   </a>
 </div>
 
+<span style="color:Navy">Hobbies</span>
+======
+<hr style="border: none; height: 2px; background-color: Navy;">
+
+I hit the gym regularly and do some casual powerlifting. My PRs: Bench 130 kg, Deadlift 230 kg, Squat 180 kg.
