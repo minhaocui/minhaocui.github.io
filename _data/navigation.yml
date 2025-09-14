@@ -21,7 +21,7 @@ main:
     url: /teaching/   
     
   - title: "CV"
-    url: "files/CV_minhaocui_latest.pdf"
+    url: /files/CV_minhaocui_latest.pdf
     
   # - title: "CV"
   #   url: /cv-json/
