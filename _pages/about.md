@@ -82,14 +82,33 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
   <tr>
     <td><b>09/2019-02/2025</b></td>
     <td>
-      Ph.D., Computer Science, UMass Amherst, US
+      <b>Ph.D.</b>, Computer Science, UMass Amherst, USA
     </td>
   </tr>
   
   <tr>
     <td><b>09/2015-06/2019</b></td>
     <td>
-      B.E., Cyber Engineering, DLUT, PRC
+      <b>B.E.</b>, Cyber Engineering, DLUT, PRC
+    </td>
+  </tr> 
+</table>
+
+<span style="color:Navy">Experience</span>
+======
+<hr style="border: none; height: 2px; background-color: Navy;">
+<table>
+  <tr>
+    <td><b>09/2025-present</b></td>
+    <td>
+      <b>Research Assistant Professor</b>, Computer Science and Engineering, Seoul National University, Korea
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>05/2024-08/2024</b></td>
+    <td>
+      <b>Research Intern</b>, Wireless Communication and Sensing Group, Microsoft Research Asia, Shanghai, PRC
     </td>
   </tr> 
 </table>
