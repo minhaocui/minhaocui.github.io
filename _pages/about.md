@@ -74,6 +74,25 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
     </td>
   </tr> 
 </table>
+
+<span style="color:Navy">Education</span>
+======
+<hr style="border: none; height: 2px; background-color: Navy;">
+<table>
+  <tr>
+    <td><b>09/2019-02/2025</b></td>
+    <td>
+      Ph.D., Computer Science, UMass Amherst, US
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>09/2015-06/2019</b></td>
+    <td>
+      B.E., Cyber Engineering, DLUT, PRC
+    </td>
+  </tr> 
+</table>
         
 <span style="color:Navy">Selected Publications</span>
 ======
