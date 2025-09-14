@@ -14,8 +14,8 @@ main:
   - title: "Awards"
     url: /awards/ 
 
-  - title: "Services"
-    url: /services/
+  - title: "Service"
+    url: /service/
     
   - title: "Teaching"
     url: /teaching/   
