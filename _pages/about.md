@@ -34,6 +34,12 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
 </style>
 
 <table>
+    <tr>
+    <td><b>09/2025</b></td>
+    <td>
+      Invited to serve on the Technical Program Committee for DATE '26.
+    </td>
+  </tr> 
   <tr>
     <td><b>09/2025</b></td>
     <td>
