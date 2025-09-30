@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a reserach assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
+I am an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 My research vision is to **explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers**. 
 
@@ -49,7 +49,7 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
   <tr>
     <td><b>09/2025</b></td>
     <td>
-      I am starting a new chapter in my career as a Research Assistant Professor at 
+      I am starting a new chapter in my career as an Assistant Professor at 
       <a href="https://cse.snu.ac.kr">Department of Computer Science and Engineering</a>, 
       <a href="https://en.snu.ac.kr/index.html">Seoul National University</a>.
     </td>
