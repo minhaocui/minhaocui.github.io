@@ -36,13 +36,13 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
 <table>
 <table>
   <tr>
-    <td><b>10/2025</b></td>
+    <td><b>02/2026</b></td>
     <td>
       Invited to serve on the Technical Program Committee for MAIN '26.
     </td>
   </tr>
   <tr>
-    <td><b>02/2025</b></td>
+    <td><b>02/2026</b></td>
     <td>
       Invited to serve as a reviewer for IMWUT/UbiComp '26.
     </td>
