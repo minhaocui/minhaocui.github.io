@@ -34,6 +34,25 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
 </style>
 
 <table>
+<table>
+  <tr>
+    <td><b>10/2025</b></td>
+    <td>
+      Invited to serve on the Technical Program Committee for MAIN '26.
+    </td>
+  </tr>
+  <tr>
+    <td><b>02/2025</b></td>
+    <td>
+      Invited to serve as a reviewer for IMWUT/UbiComp '26.
+    </td>
+  </tr> 
+  <tr>
+    <td><b>01/2026</b></td>
+    <td>
+      One paper was accepted at IMWUT/UbiComp '26.
+    </td>
+  </tr>
       <tr>
     <td><b>10/2025</b></td>
     <td>
@@ -119,7 +138,7 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
   <tr>
     <td><b>09/2025-present</b></td>
     <td>
-      <b>Research Assistant Professor</b>, Computer Science and Engineering, Seoul National University, Korea
+      <b>Assistant Professor</b>, Computer Science and Engineering, Seoul National University, Korea
     </td>
   </tr>
   
