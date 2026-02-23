@@ -38,6 +38,12 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
   <tr>
     <td><b>02/2026</b></td>
     <td>
+      Our <a href="https://cse.snu.ac.kr/en/research/labs/94">Meta Perception Lab (MLP)</a> is up and running, please contact me if interested.
+    </td>
+  </tr>
+  <tr>
+    <td><b>02/2026</b></td>
+    <td>
       Invited to serve on the Technical Program Committee for MAIN '26.
     </td>
   </tr>
