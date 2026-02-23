@@ -34,7 +34,6 @@ Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Commu
 </style>
 
 <table>
-<table>
   <tr>
     <td><b>02/2026</b></td>
     <td>
