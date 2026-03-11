@@ -19,8 +19,11 @@ redirect_from:
 
 <p style="font-size:18px; color:#c62828;">
 I am actively looking for self-motivated <b>undergraduate research interns</b>, <b>master students</b>, and <b>Ph.D. students</b>, to join my group. 
-Avaliable Research Projects: **LLM+Wireless**, **Multi-Modal Perception**, **Perception for Robots**, and **Cyber-Physical Security in AI**.
+  
+Avaliable Research Projects: <b>LLM+Wireless</b>, <b>Multi-Modal Perception</b>, <b>Perception for Robots</b>, and <b>Cyber-Physical Security in AI</b>.
+
 Feel free to send me an email with your CV if you are interested.
+
 </p>
 
 </div>
