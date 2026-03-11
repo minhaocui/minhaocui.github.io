@@ -16,14 +16,11 @@ redirect_from:
 ">
 
 <h2 style="color:#c62828; margin-top:0;">Openings</h2>
-
 <p style="font-size:18px; color:#c62828;">
 I am actively looking for self-motivated <b>undergraduate interns</b>, <b>master students</b>, and <b>Ph.D. students</b>, to join my group. Feel free to send me an email with your CV. <br> <br>
 
 <b>Avaliable Research Projects</b>: LLM+Wireless, Multi-Modal Perception, Perception for Robots, and Cyber-Physical Security in AI.
-
 </p>
-
 </div>
 
 I am an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
