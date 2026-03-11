@@ -7,12 +7,27 @@ redirect_from:
   - /about.html
 ---
 
+<div style="
+    border: 2px solid #e57373;
+    background-color: #fdecea;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 30px 0;
+">
+
+<h2 style="color:#c62828; margin-top:0;">Openings</h2>
+
+<p style="font-size:18px; color:#c62828;">
+I am actively looking for self-motivated <b>undergraduate research interns</b>, <b>master students</b>, and <b>Ph.D. students</b>, to join my group. 
+Avaliable Research Projects: **LLM+Wireless**, **Multi-Modal Perception**, **Perception for Robots**, and **Cyber-Physical Security in AI**.
+Feel free to send me an email with your CV if you are interested.
+</p>
+
+</div>
 
 I am an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 My research vision is to **explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers**. 
-
-Research interests: **Mobile Computing**, **Wireless Sensing**, **Wireless Communication**, **Cyber-Physical Systems**, and **HCI**.
 
 
 <span style="color:Navy">News</span>
