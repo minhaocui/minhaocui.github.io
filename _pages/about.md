@@ -48,6 +48,24 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 
 <table>
   <tr>
+    <td><b>04/2026</b></td>
+    <td>
+      One paper was accepted at CCS '26.
+    </td>
+  </tr>
+  <tr>
+    <td><b>04/2026</b></td>
+    <td>
+      Two papers were accepted at IMWUT/UbiComp '26.
+    </td>
+  </tr>
+  <tr>
+    <td><b>03/2026</b></td>
+    <td>
+      One paper was accepted at SenSys '26.
+    </td>
+  </tr>
+  <tr>
     <td><b>02/2026</b></td>
     <td>
       Our <a href="https://cse.snu.ac.kr/en/research/labs/94">Meta Perception Lab (MLP)</a> is up and running, please contact me if interested.
@@ -109,25 +127,6 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       Invited to serve on the Technical Program Committee for TrustCom '25.
     </td>
   </tr>
-  <tr>
-    <td><b>08/2025</b></td>
-    <td>
-      Invited to serve as a reviewer for IoT '25.
-    </td>
-  </tr> 
-  <tr>
-    <td><b>07/2025</b></td>
-    <td>
-      Excited to co-chair the “RF Computing and AIoT Application” track at 
-      <a href="http://ieee-icpads.org.cn">ICPADS 2025</a>.
-    </td>
-  </tr> 
-  <tr>
-    <td><b>05/2025</b></td>
-    <td>
-      Invited to serve as a reviewer for IMWUT '25.
-    </td>
-  </tr> 
 </table>
 
 <span style="color:Navy">Education</span>
