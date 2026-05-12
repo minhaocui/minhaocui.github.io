@@ -47,6 +47,12 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 </style>
 
 <table>
+    <tr>
+    <td><b>05/2026</b></td>
+    <td>
+      One paper was accepted at SIGCOMM '26.
+    </td>
+  </tr>
   <tr>
     <td><b>04/2026</b></td>
     <td>
@@ -121,12 +127,12 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       <a href="https://en.snu.ac.kr/index.html">Seoul National University</a>.
     </td>
   </tr>  
-  <tr>
+  <!-- <tr>
     <td><b>08/2025</b></td>
     <td>
       Invited to serve on the Technical Program Committee for TrustCom '25.
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <span style="color:Navy">Education</span>
