@@ -47,6 +47,12 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 </style>
 
 <table>
+  <tr>
+    <td><b>05/2026</b></td>
+    <td>
+      Invited to serve on the Technical Program Committee for SenSys '27.
+    </td>
+  </tr>
     <tr>
     <td><b>05/2026</b></td>
     <td>
