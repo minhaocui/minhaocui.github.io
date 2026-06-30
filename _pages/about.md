@@ -48,6 +48,12 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 
 <table>
   <tr>
+    <td><b>06/2026</b></td>
+    <td>
+      One paper was accepted at IMWUT/UbiComp '26.
+    </td>
+  </tr>
+  <tr>
     <td><b>05/2026</b></td>
     <td>
       Invited to serve on the Technical Program Committee for SenSys '27.
