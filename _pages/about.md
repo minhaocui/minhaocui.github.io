@@ -48,6 +48,12 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 
 <table>
   <tr>
+    <td><b>08/2026</b></td>
+    <td>
+      Invited to serve on the Technical Program Committee for USENIX Security '27.
+    </td>
+  </tr>
+  <tr>
     <td><b>07/2026</b></td>
     <td>
       Invited to serve on the Technical Program Committee for MobiCom '27.
