@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "MLP Lab"
-    url: /mlp-lab/
+  - title: "MPL Lab"
+    url: /mpl-lab/
 
   - title: "Publications"
     url: /publications/

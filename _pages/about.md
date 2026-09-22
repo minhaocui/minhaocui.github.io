@@ -104,7 +104,7 @@ My research vision is to **explore pervasive existing signals to broaden and enh
   <tr>
     <td><b>02/2026</b></td>
     <td>
-      Our <a href="https://cse.snu.ac.kr/en/research/labs/94">Meta Perception Lab (MLP)</a> is up and running, please contact me if interested.
+      Our <a href="https://cse.snu.ac.kr/en/research/labs/94">Meta Perception Lab (MPL)</a> is up and running, please contact me if interested.
     </td>
   </tr>
   <tr>
