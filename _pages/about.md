@@ -342,9 +342,9 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 ======
 <hr style="border: none; height: 2px; background-color: Navy;">
 
-I hit the gym regularly and do some casual powerlifting with PRs:
+I hit the gym regularly and do some casual powerlifting with PRs (09/2026):
 <ul>
-  <li><b>Bench Press:</b> 130 kg</li>
-  <li><b>Deadlift:</b> 230 kg</li>
-  <li><b>Squat:</b> 180 kg</li>
+  <li><b>Bench Press:</b> 145 kg</li>
+  <li><b>Deadlift:</b> 245 kg</li>
+  <li><b>Squat:</b> 210 kg</li>
 </ul>
