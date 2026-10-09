@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: #
-seo_title: "Minhao Cui | Assistant Professor, Seoul National University"
+seo_title: "Minhao Cui - Assistant Professor, Seoul National University"
 description: "Minhao Cui (SNU CSE) is an Assistant Professor at Seoul National University leading the Meta Perception Lab. Research on wireless sensing, multi-modal perception, and mobile computing (MobiCom, SenSys, SIGCOMM, CCS)."
 author_profile: true
 redirect_from: 
