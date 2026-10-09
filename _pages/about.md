@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: #
+seo_title: "Minhao Cui | Assistant Professor, Seoul National University"
+description: "Minhao Cui (SNU CSE) is an Assistant Professor at Seoul National University leading the Meta Perception Lab. Research on wireless sensing, multi-modal perception, and mobile computing (MobiCom, SenSys, SIGCOMM, CCS)."
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,7 +25,7 @@ I am actively looking for self-motivated <b>undergraduate interns</b>, <b>master
 </p>
 </div>
 
-I am an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
+I am **Minhao Cui**, an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 My research vision is to **explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers**. 
 
