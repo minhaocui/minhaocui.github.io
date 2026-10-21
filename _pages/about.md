@@ -25,7 +25,7 @@ I am actively looking for self-motivated <b>undergraduate interns</b>, <b>master
 </p>
 </div>
 
-I am **Minhao Cui**, an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
+I am **Minhao Cui** (崔敏浩/최민호), an assistant professor at [Department of Computer Science and Engineering](https://cse.snu.ac.kr), [Seoul National University](https://en.snu.ac.kr/index.html). I received PhD degree from Manning College of Information and Computer Sciences, University of Massachusetts Amherst, under the supervision of [Prof. Jie Xiong](https://people.cs.umass.edu/~jxiong/).
 
 My research vision is to **explore pervasive existing signals to broaden and enhance the perceptual capabilities of both humans and computers**. 
 
