@@ -145,6 +145,7 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       Invited to serve on the Technical Program Committee for MobiSys '26.
     </td>
   </tr>
+  <!-- Older news (before 10/2025) hidden
       <tr>
     <td><b>09/2025</b></td>
     <td>
@@ -171,6 +172,7 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       <a href="https://en.snu.ac.kr/index.html">Seoul National University</a>.
     </td>
   </tr>  
+  -->
   <!-- <tr>
     <td><b>08/2025</b></td>
     <td>
