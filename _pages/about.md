@@ -52,7 +52,7 @@ My research vision is to **explore pervasive existing signals to broaden and enh
   <tr>
     <td><b>10/2026</b></td>
     <td>
-      Received the <b>2026 Okawa Foundation Research Grant</b> from the <a href="https://www.okawa-foundation.or.jp/en/">Okawa Foundation for Information and Telecommunications</a>.
+      Received the <b>2026 Okawa Foundation Research Grant</b> from the <a href="https://www.okawa-foundation.or.jp/en/">Okawa Foundation for Information and Telecommunications</a>. Many thanks to the Okawa Foundation for its generous support of our research on pervasive wireless perception!
     </td>
   </tr>
   <tr>
