@@ -247,6 +247,20 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       <span class="publications-label">MobiCom</span>
     </td>
     <td class="publications-content">
+      <b>When Butterfly Meets Photoacoustic Effect</b>
+      <br/>
+      Lupeng Zhang, <u>Minhao Cui</u>, Qing Wang, Jie Xiong
+      <br/>
+      <i>ACM Conference on Mobile Computing and Networking, 2026</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
+      <span class="publications-label">MobiCom</span>
+    </td>
+    <td class="publications-content">
       <b>GPSense: Passive Sensing with Pervasive GPS Signals</b>
       <br/>
       Huixin Dong*, <u>Minhao Cui</u>*, Ning Wang, Lili Qiu, Jie Xiong, Wei Wang (*Equal contribution)
