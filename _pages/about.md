@@ -251,7 +251,7 @@ My research vision is to **explore pervasive existing signals to broaden and enh
     <td class="publications-content">
       <b>AcousMyopia: Exploring Smartphone Acoustic Sensing for Refractive-Error Estimation</b>
       <br/>
-      Yuan Wu, Jiarui Xu, Likairui Zhang, Jian Zhang, Yanjiao Chen, <u>Minhao Cui</u>
+      Yuan Wu, Jiarui Xu, Likairui Zhang, Jian Zhang, Yanjiao Chen, <u>Minhao Cui</u>&dagger; (&dagger;Corresponding author)
       <br/>
       <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026</i>
       <br/>
