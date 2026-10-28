@@ -244,6 +244,22 @@ My research vision is to **explore pervasive existing signals to broaden and enh
 
   <tr class="publications-item">
     <td class="publications-date">
+      <span class="publications-label"> IMWUT/
+                                        <br/>
+                                        UbiComp</span>
+    </td>
+    <td class="publications-content">
+      <b>AcousMyopia: Exploring Smartphone Acoustic Sensing for Refractive-Error Estimation</b>
+      <br/>
+      Yuan Wu, Jiarui Xu, Likairui Zhang, Jian Zhang, Yanjiao Chen, <u>Minhao Cui</u>
+      <br/>
+      <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026</i>
+      <br/>
+    </td>
+  </tr>
+
+  <tr class="publications-item">
+    <td class="publications-date">
       <span class="publications-label">MobiCom</span>
     </td>
     <td class="publications-content">
