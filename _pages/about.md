@@ -145,46 +145,6 @@ My research vision is to **explore pervasive existing signals to broaden and enh
       One paper was accepted at IMWUT/UbiComp '26.
     </td>
   </tr>
-      <tr>
-    <td><b>10/2025</b></td>
-    <td>
-      Invited to serve on the Technical Program Committee for MobiSys '26.
-    </td>
-  </tr>
-  <!-- Older news (before 10/2025) hidden
-      <tr>
-    <td><b>09/2025</b></td>
-    <td>
-      Invited to serve on the Technical Program Committee for SenSys '26.
-    </td>
-  </tr>
-    <tr>
-    <td><b>09/2025</b></td>
-    <td>
-      Invited to serve on the Technical Program Committee for DATE '26.
-    </td>
-  </tr> 
-  <tr>
-    <td><b>09/2025</b></td>
-    <td>
-      One paper is accepted at MobiCom '25.
-    </td>
-  </tr> 
-  <tr>
-    <td><b>09/2025</b></td>
-    <td>
-      I am starting a new chapter in my career as an Assistant Professor at 
-      <a href="https://cse.snu.ac.kr">Department of Computer Science and Engineering</a>, 
-      <a href="https://en.snu.ac.kr/index.html">Seoul National University</a>.
-    </td>
-  </tr>  
-  -->
-  <!-- <tr>
-    <td><b>08/2025</b></td>
-    <td>
-      Invited to serve on the Technical Program Committee for TrustCom '25.
-    </td>
-  </tr> -->
 </table>
 
 <span style="color:Navy">Education</span>
